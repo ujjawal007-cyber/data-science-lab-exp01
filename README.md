@@ -8,7 +8,7 @@ Perform basic data analysis on the Iris dataset using Python and Pandas.
 ## Work Done
 
 * Loaded `iris.csv` using Pandas.
-* Displayed the last 10 records using `head()`.
+* Displayed the first 10 records using `head()`.
 * Checked dataset information using `info()`.
 * Generated summary statistics using `describe()`.
 * Checked missing values using `isnull().sum()`.
