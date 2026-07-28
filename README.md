@@ -1,4 +1,4 @@
-# data-science-lab-exp01
+# Data-science-lab-exp01
 # Iris Dataset Analysis
 
 ## Objective
